@@ -1,0 +1,25 @@
+# Samurai Slot Inspiration Notes
+
+Do not copy Wild Wild Samurai directly. Use it only as inspiration.
+
+## Visual Direction
+- Japanese/samurai casino theme
+- Dark red, gold, black, ember lighting
+- Dramatic sword-slash effects
+- Lantern glow, smoke, sparks, metal/chrome UI
+- Reels should feel heavy, premium, and loud
+
+## Core Gameplay Inspiration
+- Base grid starts as 5 reels x 3 rows
+- Special wilds on reels 1 and 2 can trigger a bonus state
+- When bonus triggers, reels 3, 4, and 5 can expand upward
+- Bonus symbols with credit values can land on expanded reels
+- Free spins mode increases excitement with multipliers
+- Use suspense pauses on important reels
+
+## Important Feel
+- The game should build anticipation before showing big results
+- Use reel-by-reel slowdown
+- Use camera shake/light burst on bonus triggers
+- Use count-up animations for wins
+- Make rare hits feel explosive
